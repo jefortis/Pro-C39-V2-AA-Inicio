@@ -1,2 +1,2 @@
-# Pro-C39-V2-AA-Inicio
-Pro C39 V2 AA Inicio
+# Actividad de la maestra 1_C38_Código Boilerplate
+Actividad de la maestra
